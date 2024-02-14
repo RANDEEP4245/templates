@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MUSIC PLAYER</title>
+</head>
+<body>
+<br>
+<br>
+<table border="2px" cell spacing="5px"cell padding="1px" height="500px" width="500px">
+ <tr align="center">
+<td width="10px"><image src="flowers.jpg" height="60px" width="60px" alt="unable to load"></td>
+<td colspan="2">RS MUSIC</td>
+</tr>
+<tr align=""center>
+<td>NAME</td>
+<td>ABOUT</td>
+<td>DOWNLOAD</td>
+<tr>
+<td><a href=" file:///C:/Users/hp/Desktop/HTML/songs.html" target="ABOUT">HINDI</a><br></br>
+<a href=" file:///C:/Users/hp/Desktop/HTML/ENGLISH.html" target="ABOUT">ENGLISH</a></td>
+<td> <iframe name=ABOUT><a href="https://www.jiosaavn.com/"></iframe> </td>
+<td><iframe name=DOWNLOAD></iframe></td>
+</tr>
+<tr align="center">
+<td colspan="3">&copyRANDEEP</td>
+</tr>
