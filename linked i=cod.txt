@@ -1,0 +1,76 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <title>linked.in</title>
+    <style>
+      body{
+    background-image:url("a.jpg") ;
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-position:"contain";
+    margin:0px ;
+    background-attachment: fixed;
+}
+.c1{
+   background color: rgb(2, 64, 92);
+}
+.b1{background-color: rgb(2, 64, 92); 
+    color: white;
+}
+.c2{background-color: rgba(223,223,224,0.8);
+}
+.c3{
+   height:100px;
+   width:100px;
+}
+.img{
+   height:20px;
+}
+   </style>
+    </head>
+    <body>
+    <link href="linkedin.PNG" rel="icon"></link>
+    <link href="https://cdn.jsdelivr.met/npm/bootstrap@5.3.0/dist/css/bootstrap.min">
+    
+    <div style="height: 50px; background-color:rgb(2, 64, 92);">
+      </div>
+      <div class="container-fluid">
+         <div class="col-md-4"><img src="F:\vs code\linkedin.PNG"> 
+            <div class="col-md-1 btn b1">Sign in </div>
+            <div class="col-md-1 btn b2">Join now</div>
+      <div>
+         <div class="row c3 d-inline-block">
+      </div>
+      <div class="row">
+         <div class="col-md-4"></div>
+         <div class="col-ms-4">
+            <div class="row c2 mx auto offset-md-4 my-5">
+               <div class="row">
+                  <div class="col-md my-3 offset-md-3"><img src="">
+                     <div class="row">
+                  <div class="col-md my-2 offset-md-1"><input type="text" class="form-control">
+                  <div class="row">
+               <div class="col-md my-2 offset-md1"> <input type="password" class="form-control">
+               <div class row="col-md my-2 offset-md-1" btn btn-primary>Sign in</div>
+                <div class="row">
+                  <div class="col-md my-2 offset-md-3"><span class="text-center text-position">
+                     </span></div>
+                     </div>
+                     </div>
+                     </div>
+                  <div class="col-md-4"></div>
+                  </div>
+                  <div class="row c3 d-inline-block">
+                     </div>
+                     <div class="row text-bg-dark p-2 d-flex ustify-content-between">
+                        <div class="col-sm"><img src="">
+                             </div>
+                             </div>
+                             </div>
+                           </div>
+                        </div>
+                        </div>
+                        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min">
+                        
+   </body>
+ </html>s
